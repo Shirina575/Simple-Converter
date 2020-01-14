@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="KmPerHour">Km/h --> m/s</string>
+    <string name="Inches">Inches --> m</string>
+    <string name="Kg">Kg --> Pound </string>
+    <string name="Button">Submit</string>
+    <string name="Choose">Choose</string>
+</resources>
